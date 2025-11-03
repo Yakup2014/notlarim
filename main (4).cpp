@@ -13,7 +13,7 @@ Code, Compile, Run and Debug online from anywhere in world.
 using namespace std;
 int main()
 {
-    ofstream dosya("deneyap.txt");
+    ofstream dosya("deneyap(1).txt");
     
    string konsoldanOkunan;
    while(konsoldanOkunan!="çık"){
